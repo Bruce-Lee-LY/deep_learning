@@ -1,0 +1,11 @@
+# python==3.6
+tensorflow==1.15.4
+tensorflow-gpu==1.15.4
+numpy==1.19.0
+Pillow==8.0.1
+opencv-python==4.3.0.38
+matplotlib==3.3.2
+
+# python==3.8
+torch==1.7.1
+torchvision==0.8.2
